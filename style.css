@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+.container{
+    background: url(leJustePrix.jpg) no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-position: right;
+}
+header{
+    font-size: large;
+    font-weight: bolder;
+    font-family: Georgia, Times, 'Times New Roman', serif
+}
